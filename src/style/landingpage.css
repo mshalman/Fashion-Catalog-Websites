@@ -1,0 +1,78 @@
+.myBG {
+    height: 100vh;
+    background: url("../assets/image/bg/bg.jpg");
+    background-size: cover;
+}
+
+.brand {
+    font-size: 2rem;
+}
+
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 700;
+    line-height: 1;
+    color: rgb(250, 27, 27);
+    text-shadow: 1px 1px black;
+    letter-spacing: 4px;
+}
+
+.shoes {
+    height: auto;
+    background: url("../assets/image/bg/vans.jpg");
+    background-size: cover;
+}
+
+.tshirt {
+    height: auto;
+    background: url("../assets/image/bg/vans2.jpg");
+    background-size: cover;
+}
+
+.jacket {
+    height: auto;
+    background: url("../assets/image/bg/vans.jpg");
+    background-size: cover;
+}
+
+.snapbag {
+    height: auto;
+    background: url("../assets/image/bg/vans2.jpg");
+    background-size: cover;
+}
+
+.bag {
+    height: auto;
+    background: url("../assets/image/bg/vans.jpg");
+    background-size: cover;
+}
+
+.slappers {
+    height: auto;
+    background: url("../assets/image/bg/vans2.jpg");
+    background-size: cover;
+}
+
+
+.movieWrapper{
+    
+}
+
+.movieImage {
+    height: auto;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.images {
+    height: 300px;
+}
+
